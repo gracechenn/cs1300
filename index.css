@@ -163,3 +163,14 @@ li {
 footer {
   margin: 100px;
 }
+
+.mockups{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.half {
+  width: 45%;
+  margin: 2%;
+  display: inline;
+}
